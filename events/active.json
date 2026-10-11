@@ -1,0 +1,59 @@
+{
+  "slug": "wedlock-events-management-and-caterers-kollam",
+  "name": "Wedlock Events Management and Caterers",
+  "shortName": "Wedlock",
+  "descriptor": "Catering & Events",
+  "address": "Kappalandimukku-Kadappakkada Rd, Bavana Nagar, Kollam, Keralam 691008",
+  "area": "Bavana Nagar",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691008",
+  "geo": {
+    "lat": 8.8918982,
+    "lng": 76.60361499999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=12652133699866559969",
+  "phone": "+91 94958 21111",
+  "whatsapp": "919495821111",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 230,
+  "reviews": [
+    {
+      "name": "Neethu Arun",
+      "rating": 5,
+      "quote": "We had an amazing experience with Wetlook Events. The entrance gate and all the event decorations were absolutely stunning and beautifully designed. Every detail was handled with creativity and perfection, making our event look elegant and memorable. A special thanks to Mr."
+    },
+    {
+      "name": "Arun Arun",
+      "rating": 5,
+      "quote": "Our entire wedding was beautifully managed by Wedlock Events, Kollam. From the very first day of our wedding preparations, they were always there to clear our doubts, support us, and make everything stress-free for us. They truly made our wedding more beautiful than we had ever imagined."
+    },
+    {
+      "name": "Lal G",
+      "rating": 5,
+      "quote": "The service was just as impressive. The catering team was professional, friendly, and attentive, making sure everything ran smoothly and ensuring our guests were well taken care of. They were flexible, responsive, and dedicated to making our day perfect.Thank you Wedlock Events."
+    },
+    {
+      "name": "yabhas chhetri",
+      "rating": 5,
+      "quote": "We recently worked with wed lock events for our wedding planning, and the experience was fantastic. Their attention to detail and professionalism made the planning process stress-free, allowing us to trust them completely. Everything went smoothly, thanks to their flawless coordination."
+    },
+    {
+      "name": "ANIL KS",
+      "rating": 5,
+      "quote": "We had the pleasure of having Wedlock Events at our wedding, and it was an outstanding experience. The food was simply incredible—beautifully presented, delicious, and enjoyed by all our guests. Each dish was cooked to perfection, with a wide flavors that pleased everyone,"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://wedlock-events-management-and-cater.vercel.app"
+}
